@@ -2,6 +2,9 @@ iScrollContactJS
 ================
 
 一个Javascript库, 允许您创建一个类似通讯录首字母滑动的效果 
+
+![iScrollContactJS](http://www.bluemughtml5.com/images/bkg_block2.png "通讯录首字母滑动的效果")
+
 用法
 -----------------------------------  
 内容页面的目标元素(elements:#ID)调用iScroll( )方法<br>

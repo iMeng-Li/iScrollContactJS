@@ -4,9 +4,9 @@ iScrollContactJS
 一个Javascript库, 允许您创建一个类似通讯录首字母滑动的效果 
 用法
 -----------------------------------  
-内容页面的目标元素(elements:#ID)调用iScroll( )方法
-它创造了必要的HTML元素在内容页面
-右边操作元素(elements:#ID)调用iScrollContact( )方法
+内容页面的目标元素(elements:#ID)调用iScroll( )方法<br>
+它创造了必要的HTML元素在内容页面<br>
+右边操作元素(elements:#ID)调用iScrollContact( )方法<br>
 使用HTML 5新标签和CSS 3最新标准
 
 引用库
@@ -43,8 +43,9 @@ HTML
 
 <div id="wrapper-tab3"></div>
 ```
+CSS
 
-
+```css
 .sticker {
 width: 180px;
 height: 180px;
@@ -54,8 +55,7 @@ height: 180px;
 .example-1 .sticker-img {
 background-image: url(heroes-2.png);
 }
-CSS
-```css
+
 // add color
 .example-2 .sticker-img {
 background-color: #ff4a85;
